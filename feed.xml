@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aprende Frances Desde Cero</title>
-    <link href="https://github.com/CSamuelRod/CSamuelRod.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/CSamuelRod/CSamuelRod.github.io" />
+    <link href="https://CSamuelRod.github.io/feed.xml" rel="self" />
+    <link href="https://CSamuelRod.github.io" />
     <updated>2026-02-23T12:07:20+01:00</updated>
     <author>
         <name>Samu :D</name>
     </author>
-    <id>https://github.com/CSamuelRod/CSamuelRod.github.io</id>
+    <id>https://CSamuelRod.github.io</id>
 
     <entry>
         <title>Parte I - Fundamentos</title>
         <author>
             <name>Samu :D</name>
         </author>
-        <link href="https://github.com/CSamuelRod/CSamuelRod.github.io/parte-i-fundamentos-3.html"/>
-        <id>https://github.com/CSamuelRod/CSamuelRod.github.io/parte-i-fundamentos-3.html</id>
+        <link href="https://CSamuelRod.github.io/parte-i-fundamentos-3.html"/>
+        <id>https://CSamuelRod.github.io/parte-i-fundamentos-3.html</id>
 
         <updated>2026-02-20T09:36:46+01:00</updated>
             <summary type="html">
@@ -1748,8 +1748,8 @@
         <author>
             <name>Samu :D</name>
         </author>
-        <link href="https://github.com/CSamuelRod/CSamuelRod.github.io/parte-iii-expansion.html"/>
-        <id>https://github.com/CSamuelRod/CSamuelRod.github.io/parte-iii-expansion.html</id>
+        <link href="https://CSamuelRod.github.io/parte-iii-expansion.html"/>
+        <id>https://CSamuelRod.github.io/parte-iii-expansion.html</id>
 
         <updated>2026-02-20T09:28:26+01:00</updated>
             <summary type="html">
@@ -2116,8 +2116,8 @@
         <author>
             <name>Samu :D</name>
         </author>
-        <link href="https://github.com/CSamuelRod/CSamuelRod.github.io/parte-ii-construccion.html"/>
-        <id>https://github.com/CSamuelRod/CSamuelRod.github.io/parte-ii-construccion.html</id>
+        <link href="https://CSamuelRod.github.io/parte-ii-construccion.html"/>
+        <id>https://CSamuelRod.github.io/parte-ii-construccion.html</id>
 
         <updated>2026-02-20T09:26:18+01:00</updated>
             <summary type="html">
