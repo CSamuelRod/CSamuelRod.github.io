@@ -3,7 +3,7 @@
     <title>Aprende Frances Desde Cero</title>
     <link href="https://CSamuelRod.github.io/feed.xml" rel="self" />
     <link href="https://CSamuelRod.github.io" />
-    <updated>2026-02-23T12:07:20+01:00</updated>
+    <updated>2026-02-26T15:54:02+01:00</updated>
     <author>
         <name>Samu :D</name>
     </author>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <h2 data-start="173" data-end="197">🎯 Objetivo </h2>
 <p><span style="font-weight: 400;">Construir una base sólida de pronunciación y frases simples.</span></p>
-<h1><strong>Capítulo 1 - Pronunciación y sonidos. </strong></h1>
+<h1 id="cap1"><strong>Capítulo 1 - Pronunciación y sonidos. </strong></h1>
 <h3><strong>🎯 Objetivos</strong></h3>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Familiarizarte con los sonidos del francés.</span></li>
@@ -148,7 +148,7 @@
 <p><strong>Primer ejercicio: </strong><span style="font-weight: 400;"> lee en voz alta:</span></p>
 <p><span style="font-weight: 400;">Bonjour, Paris, Petit, Musique, Rouge</span></p>
 <p><span style="font-weight: 400;">No busques la perfección. Busca fluidez.</span></p>
-<h1><strong>Capítulo 2 – Primeras palabras y frases</strong></h1>
+<h1 id="cap2"><strong>Capítulo 2 – Primeras palabras y frases</strong></h1>
 <p><span style="font-weight: 400;">🎯 Objetivos:</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprender palabras esenciales.</span></li>
@@ -463,7 +463,7 @@
 <p><span style="font-weight: 400;">Ejemplo:</span></p>
 <p><span style="font-weight: 400;">Bonjour, je m’appelle Samuel.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"> J’ai 30 ans.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"> Je suis espagnol.</span></p>
 <p> </p>
-<h1><strong>📘 Capítulo 3 – ÊTRE y AVOIR</strong></h1>
+<h1 id="cap3"><strong>📘 Capítulo 3 – ÊTRE y AVOIR</strong></h1>
 <h2><strong>🎯 Objetivos</strong></h2>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Conocer los dos verbos más importantes del francés.</span><span style="font-weight: 400;"><br><br></span></li>
@@ -744,7 +744,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Responde usando tu propia edad y nacionalidad.</span></li>
 </ul>
 <p> </p>
-<h1><strong>📘 Capítulo 4 – Artículos y género</strong></h1>
+<h1 id="cap4"><strong>📘 Capítulo 4 – Artículos y género</strong></h1>
 <h2><strong>🎯 Objetivos</strong></h2>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Conocer los artículos definidos e indefinidos en francés.</span><span style="font-weight: 400;"><br><br></span></li>
@@ -949,7 +949,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">enfant → ___</span><span style="font-weight: 400;"><br><br></span></li>
 </ul>
 <p><br><br><br><br><br><br></p>
-<h1><strong>📘 Capítulo 5 – Presente regular (-ER)</strong></h1>
+<h1 id="cap5"><strong>📘 Capítulo 5 – Presente regular (-ER)</strong></h1>
 <h2><strong>🎯 Objetivos</strong></h2>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Conocer cómo se conjugan los </span><strong>verbos regulares en presente (-ER)</strong><span style="font-weight: 400;">.</span><span style="font-weight: 400;"><br><br></span></li>
@@ -1266,7 +1266,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ellos trabajan en la oficina.</span></li>
 </ol>
 <p> </p>
-<h1><strong>📘 Capítulo 6 – Negación y preguntas</strong></h1>
+<h1 id="cap6"><strong>📘 Capítulo 6 – Negación y preguntas</strong></h1>
 <h2><strong>🎯 Objetivos</strong></h2>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Aprender a </span><strong>negar</strong><span style="font-weight: 400;"> frases correctamente en francés.</span><span style="font-weight: 400;"><br><br></span></li>
